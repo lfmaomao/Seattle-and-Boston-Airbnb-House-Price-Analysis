@@ -33,7 +33,7 @@ The main results from this project include:
 
 Location does affect the rental price of Airbnb. Other factor that affect the rental price is the number of bedrooms, property type, and the square feet of the house. 
 
-The median rental price is higher in Boston than Seattle. House and Apartment is the most popular propery types in Seattle while Apartment is the most popular propery type in Boston. 
+The median rental price is higher in Boston than Seattle. House and Apartment are the most popular propery types in Seattle while Apartment is the most popular propery type in Boston. 
 
 I chose Seattle data to build a linear regression model and random forest regressor to predict the rental price. The R2 of linear regression model and random forest model is only 0.55, which is not good. We need more feature engineering in future works.
 
